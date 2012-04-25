@@ -1,3 +1,7 @@
+# RoR sample application
+
+This is the sample application for Direct Democracy website.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
